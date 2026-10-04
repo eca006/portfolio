@@ -21,3 +21,8 @@
 .photo{width:640px;max-width:95%;margin-left:5%}
 .photo img{width:100%;height:auto;aspect-ratio:1 / 1;object-fit:cover}
 @media(max-width:570px){.photo{width:300px;max-width:95%;margin-left:3px}}
+
+
+/* Medium square headshot */
+.photo{width:400px;max-width:95%;margin-left:5%}
+@media(max-width:570px){.photo{width:200px;max-width:95%;margin-left:3px}}
