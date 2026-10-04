@@ -26,3 +26,7 @@
 /* Medium square headshot */
 .photo{width:400px;max-width:95%;margin-left:5%}
 @media(max-width:570px){.photo{width:200px;max-width:95%;margin-left:3px}}
+
+/* Larger square headshot */
+.photo{width:520px;max-width:95%;margin-left:5%}
+@media(max-width:570px){.photo{width:260px;max-width:95%;margin-left:3px}}
